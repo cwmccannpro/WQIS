@@ -136,6 +136,7 @@ function App() {
           <div className="site-loader-track" aria-hidden="true"><span /></div>
         </div>
       </div>
+      <div className="ios-status-overlay" aria-hidden="true" />
       <div className="scroll-progress" aria-hidden="true"><span /></div>
 
       <div className="utility-bar">
