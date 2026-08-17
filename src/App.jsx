@@ -138,6 +138,7 @@ function App() {
       </div>
       <a className="skip-link" href="#main">Skip to content</a>
       <div className="scroll-progress" aria-hidden="true"><span /></div>
+      <div className="mobile-status-fill" aria-hidden="true" />
 
       <div className="utility-bar">
         <span>Rochester, New York</span>
